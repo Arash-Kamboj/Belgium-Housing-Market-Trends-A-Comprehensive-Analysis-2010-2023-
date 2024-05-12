@@ -7,6 +7,7 @@
 Belgium's housing market is a dynamic landscape influenced by various economic, social, and demographic factors. To gain insights into these trends and their impacts on different municipalities across Belgium, Statbel, the Belgian statistical office, provided comprehensive datasets covering the period from 2010 to 2023. In this case study I delved into the process of analyzing and visualizing this data using a dashboard, aiming to provide stakeholders with actionable insights into Belgium's housing trends over the years.
 
 **Objectives**
+
 **1. Comprehensive Analysis:** Understand the overarching trends in Belgium's housing market from 2010 to 2023.
 
 **2. Regional Comparison:** Compare housing trends across different municipalities to identify regional variations.
