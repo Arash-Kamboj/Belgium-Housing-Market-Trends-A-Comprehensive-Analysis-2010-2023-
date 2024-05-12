@@ -8,8 +8,11 @@ Belgium's housing market is a dynamic landscape influenced by various economic, 
 
 **Objectives**
 **1. Comprehensive Analysis:** Understand the overarching trends in Belgium's housing market from 2010 to 2023.
+
 **2. Regional Comparison:** Compare housing trends across different municipalities to identify regional variations.
+
 **3.Identify Growth Hotspots:** Identify municipalities experiencing significant growth or decline in housing metrics.
+
 **4.Predictive Insights:** Utilize historical data to make informed predictions about future housing trends.
 
 **Steps:**
