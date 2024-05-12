@@ -1,33 +1,39 @@
 # Belgium-Housing-Market-Trends-A-Comprehensive-Analysis-2010-2023-
 ----------------------------------------------------------------------------------------------------------------------------------
-Data Preparation:
-Gather the data you want to visualize in your dashboard. Ensure it’s in a structured format (e.g., CSV, Excel, or a database).
-Clean and transform the data using Power Query Editor within Power BI.
-Open Power BI Desktop:
-Download and install Power BI Desktop if you haven’t already.
-Open a new Power BI project.
-Import Data:
-Click on “Get Data” and select your data source (e.g., Excel, CSV, SQL Server).
-Load the relevant tables into Power BI.
-Create Visualizations:
-Drag and drop fields from your data tables onto the report canvas.
-Use visualizations like line charts, bar charts, and tables to represent data.
-Customize visuals by adjusting properties (colors, labels, axes).
-Filters and Slicers:
-Add filters and slicers to allow users to interact with the data.
-Create a year filter, location slicer, or any other relevant filters.
-Top N Analysis:
-Use DAX (Data Analysis Expressions) to calculate top N values (e.g., top 5 expensive localities).
-Create measures for median prices, total prices, etc.
-Map Visualization:
-If you want to display geographical data, add a map visual.
-Use location data (latitude and longitude) to plot points on the map.
-Page Navigation:
-Create multiple pages within your report for different views (e.g., summary, detailed analysis).
-Set up navigation buttons to switch between pages.
-Publish to Power BI Service:
-Save your Power BI file.
-Publish it to the Power BI Service (online platform).
-Share and Collaborate:
-Share the dashboard with colleagues or stakeholders.
-Set up scheduled data refresh if your data is dynamic.
+
+**Case Study: Belgium Housing Market Trends-A Comprehensive-Analysis (2010-2023)**
+
+**Introduction**
+Belgium's housing market is a dynamic landscape influenced by various economic, social, and demographic factors. To gain insights into these trends and their impacts on different municipalities across Belgium, Statbel, the Belgian statistical office, provided comprehensive datasets covering the period from 2010 to 2023. In this case study I delved into the process of analyzing and visualizing this data using a dashboard, aiming to provide stakeholders with actionable insights into Belgium's housing trends over the years.
+
+**Objectives**
+**1. Comprehensive Analysis:** Understand the overarching trends in Belgium's housing market from 2010 to 2023.
+**2. Regional Comparison:** Compare housing trends across different municipalities to identify regional variations.
+**3.Identify Growth Hotspots:** Identify municipalities experiencing significant growth or decline in housing metrics.
+**4.Predictive Insights:** Utilize historical data to make informed predictions about future housing trends.
+
+**Steps:**
+
+**1. Extract, Load, Transform (ELT)**-
+Download and Data Preparation:*
+Obtained dataset and initiated the Extract-Load-Transform (ELT) process.
+
+**Data Transformation:**
+Utilized Power BI's Power Query Editor to extract, load, and transform the data.
+Cleaned unused or erroneous rows, rectified datatype discrepancies, and ensured data accuracy and consistency.
+
+**2. Visualizations**
+Selection and Customization:
+Utilized drag-and-drop functionality to create visualizations such as line charts, bar charts, and tables.
+Customized visuals by adjusting properties such as colors, labels, and axes.
+
+**3. Filters and Slicers**
+Interactive Data Exploration:
+Implemented filters and slicers to facilitate user interaction with the data.
+Included filters for parameters like year, location.
+
+**4. Top N Analysis**
+Data Analysis Expressions (DAX):
+Employed DAX to calculate top N values, such as top 5 expensive localities.
+Created measure for Average Median.
+
